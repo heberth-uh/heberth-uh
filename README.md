@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 my name is Heberth!
+---
+
+### About me
+I am a Computer Science Engineer specialized in Front-end and Back-end website development.
+
+
 
 <!--
 **heberth-uh/heberth-uh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
