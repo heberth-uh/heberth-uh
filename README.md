@@ -50,8 +50,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=heberth-uh.heberth-uh&"  />
 </div>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=heberth-uh&icon=0&color=1"  />
-</div>
-
 ###
