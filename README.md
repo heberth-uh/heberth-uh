@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📫 Contact me: heberth.uh@gmail.com</p>
+<p align="left">📫 Contact me: **heberth.uh@gmail.com**</p>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=heberth-uh.heberth-uh&"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=heberth-uh&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=heberth-uh&icon=0&color=1"  />
+</div>
 
 ###
