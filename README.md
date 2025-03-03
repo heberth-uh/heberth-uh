@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📫 Contact me: **heberth.uh@gmail.com**</p>
+<p align="left">📫 Contact me: <strong>heberth.uh@gmail.com</strong></p>
 
 ###
 
